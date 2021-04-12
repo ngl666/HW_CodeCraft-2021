@@ -1,0 +1,9 @@
+{
+  "language": "java",
+  "pythonInterpreter": "",
+  "executable": "",
+  "sourceCode": "",
+  "javaPath": "",
+  "buildJARPath": "D:\\huawei\\CodeCraft-2021.jar",
+  "ioData": ["D:\\huawei\\training-1.txt", "D:\\huawei\\training-2.txt"]
+}
